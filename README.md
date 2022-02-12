@@ -1,4 +1,4 @@
 # GitDesktopTest
 GitとVSCodeの連携テスト
 
-練習用リポジトリです。
+Git練習用リポジトリです。
